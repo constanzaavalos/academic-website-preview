@@ -13,7 +13,7 @@ Constanza is a finishing PhD (c) in Social Statistics at the University of Manch
 This research positions her at the intersection of causal modeling, food labeling policy, and population-level inference. Prior to her doctorate, she built and directed national data infrastructure at Chile's National Institute of Statistics, providing rare expertise in large-scale food system datasets, multistage survey design, and algorithmic data quality control at census scale.
 
 ### Research Interests
-*   **Causal Inference**: Transportability & generalization of trial findings
+*   **Causal Inference**: Experimental and quasi-experimental methods
 *   **Machine Learning**: Doubly robust methods (BART, Gradient Boosting)
 *   **Food Systems**: Modeling and evaluating health policies
 *   **Survey Design**: Complex multistage designs and population-level inference
